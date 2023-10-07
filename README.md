@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kivanc S. Yildirim</h1>
-<h3 align="center">A Recent graduate with a passion for software development and a strong desire to make a positive impact in the tech world. I hold a degree in Computer Programming from İstanbul Kültür University, where I had the opportunity to explore various aspects of computer science and programming. During my academic journey, I developed a solid foundation in programming languages such as Python,C# and Php, and I also gained hands-on experience in web development, database management, and software engineering principles. I thrive on solving complex problems and turning innovative ideas into working applications.</h3>
+<h3 align="center">A Recent graduate with a passion for software development and a strong desire to make a positive impact in the tech world. I hold a degree in Computer Programming from İstanbul Kültür University, where I had the opportunity to explore various aspects of computer science and programming. During my academic journey, I developed a solid foundation in programming languages such as Python, C# and Php, and I also gained hands-on experience in web development, database management, and software engineering principles. I thrive on solving complex problems and turning innovative ideas into working applications.</h3>
 <img align="left" alt "Coding" with = "800" src ="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
 
 
