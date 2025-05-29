@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kivanc S. Yildirim</h1>
+<h1 align="center">Hi, I'm Kivanc S. Yildirim</h1>
 <h3 align="center">Game Developer | C# Programmer | ERP & Software Solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
