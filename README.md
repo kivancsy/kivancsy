@@ -1,14 +1,46 @@
-
 <h1 align="center">Hi 👋, I'm Kivanc S. Yildirim</h1>
-<h3 align="center">A Recent graduate with a passion for software development and a strong desire to make a positive impact in the tech world. I hold a degree in Computer Programming from İstanbul Kültür University, where I had the opportunity to explore various aspects of computer science and programming. During my academic journey, I developed a solid foundation in programming languages such as Python, C# and Php, and I also gained hands-on experience in web development, database management, and software engineering principles. I thrive on solving complex problems and turning innovative ideas into working applications.</h3>
-<img align="left" alt "Coding" with = "800" src ="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
+<h3 align="center">Game Developer | C# Programmer | ERP & Software Solutions</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/kivancsadikyildirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kivancsadikyildirim" height="30" width="40" /></a>
+<p align="left">
+I'm a software developer with a strong interest in game development and interactive systems. I specialize in <strong>C#</strong> and am currently focusing on creating projects with <strong>Unity</strong>. I enjoy turning ideas into playable experiences and exploring the technical and creative sides of game development.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+In addition to game development, I have hands-on experience working with enterprise-level systems, especially <strong>Logo ERP</strong>. I’ve developed custom integrations and solutions in areas like accounting, finance, and stock management, which helped me gain a solid understanding of business workflows and database structures.
+</p>
 
+<p align="left">
+Whether it's a gameplay mechanic, a backend solution, or a UI system, I love building structured, scalable, and clean code. I'm always learning and experimenting to improve my skills and expand my toolbox.
+</p>
+
+---
+
+<h3 align="center">🧰 Tools & Technologies</h3>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40" alt="Unity" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" />
+  </a>
+  <a href="https://www.logo.com.tr/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_Yazilim_logo.svg/512px-Logo_Yazilim_logo.svg.png" width="60" height="30" alt="Logo ERP" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📫 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/kivancsadikyildirim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
