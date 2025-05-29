@@ -19,22 +19,23 @@ Whether it's a gameplay mechanic, a backend solution, or a UI system, I love bui
 
 <h3 align="center">🧰 Tools & Technologies</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40" alt="Unity" />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" />
   </a>
-  <a href="https://www.logo.com.tr/" target="_blank" rel="noreferrer">
+  <a href="https://www.logo.com.tr/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_Yazilim_logo.svg/512px-Logo_Yazilim_logo.svg.png" width="60" height="30" alt="Logo ERP" />
   </a>
 </p>
+
 
 ---
 
