@@ -31,9 +31,6 @@ Whether it's a gameplay mechanic, a backend solution, or a UI system, I love bui
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" />
   </a>
-  <a href="https://www.logo.com.tr/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_Yazilim_logo.svg/512px-Logo_Yazilim_logo.svg.png" width="60" height="30" alt="Logo ERP" />
-  </a>
 </p>
 
 
