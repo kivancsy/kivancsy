@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I'm Kivanc S. Yildirim</h1>
-<h3 align="center">Game Developer | C# Programmer | ERP & Software Solutions</h3>
+<h1 align="center">Hi, I'm Kivanc</h1>
+<h3 align="center">Game Developer | C# Programmer | Badly Written Code Enthusiast Too</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
 
 <p align="left">
-I'm a software developer with a strong interest in game development and interactive systems. I specialize in <strong>C#</strong> and am currently focusing on creating projects with <strong>Unity</strong>. I enjoy turning ideas into playable experiences and exploring the technical and creative sides of game development.
-</p>
+I make games and a bunch of other nonsense<br><br>
 
-<p align="left">
-In addition to game development, I have hands-on experience working with enterprise-level systems, especially <strong>Logo ERP</strong>. I’ve developed custom integrations and solutions in areas like accounting, finance, and stock management, which helped me gain a solid understanding of business workflows and database structures.
-</p>
+I code in <strong>C#</strong>, build stuff in <strong>Unity</strong>, and break things just to put them back together again.
 
-<p align="left">
-Whether it's a gameplay mechanic, a backend solution, or a UI system, I love building structured, scalable, and clean code. I'm always learning and experimenting to improve my skills and expand my toolbox.
+I like mechanics that feel good, ideas that click, and code that doesn't make me want to actually do it for real this time.<br><br>
+
+I’m not big on “corporate speak.” and I don't care about corporate influencerism on social media<br><br>
+
+I just like making things that move, shoot, slash, jump, or explode.
 </p>
 
 ---
