@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kivanc</h1>
-<h3 align="center">Game Developer | C# Programmer | Badly Written Code Enthusiast Too</h3>
+<h3 align="center">Game Developer | C# Programmer | Spaghetti Code Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
 
@@ -8,9 +8,9 @@ I make games and a bunch of other nonsense<br><br>
 
 I code in <strong>C#</strong>, build stuff in <strong>Unity</strong>, and break things just to put them back together again.
 
-I like mechanics that feel good, ideas that click, and code that doesn't make me want to actually do it for real this time.<br><br>
+I like rogue-like stuff and code that doesn't make me want to rogue-like myself.<br><br>
 
-I’m not big on “corporate speak.” and I don't care about corporate influencerism on social media<br><br>
+I don't care about corporate influencerism on social media<br><br>
 
 I just like making things that move, shoot, slash, jump, or explode.
 </p>
