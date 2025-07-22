@@ -9,8 +9,6 @@ I make games and a bunch of other nonsense.<br><br>
 I code in <strong>C#</strong>, build stuff in <strong>Unity</strong>, and break things just to put them back together again.
 
 I like rogue-like stuff and code that doesn't make me want to rogue-like myself.<br><br>
-I don't care about corporate influencerism on social media<br><br>
-I just like making things that move, shoot, slash, jump, or explode.
 </p>
 
 ---
