@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Kivanc</h1>
 <h3 align="center">Game Developer | C# Programmer | Bad Code Connoisseur</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
-
+<p align="center">
+  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
+</p>
 <p align="left">
 I like rogue-like stuff and code that doesn't make me want to rogue-like myself.<br><br>
 </p>
