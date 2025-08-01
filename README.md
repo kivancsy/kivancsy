@@ -1,37 +1,15 @@
-<h1 align="center">Hi, I'm Kivanc</h1>
+<h1 align="center">Hi, I'm Kivanc.</h1>
 <h3 align="center">Game Developer | C# Programmer | Bad Code Connoisseur</h3>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
-</p>
-<p align="left">
-I like rogue-like stuff and code that doesn't make me want to rogue-like myself.<br><br>
-</p>
+# 💫 About Me:
+👨‍💻 I'm a software developer with a background in finance and ERP systems.
+</br>🛠️ I have hands-on experience working with large scale, production level applications and complex data pipelines.
+</br>🕳️ In recent years, I've transitioned into game development.
+</br>🎮 Vidoe Gaems 👍
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kivancsadikyildirim) 
 
-<h3 align="center">🧰 Tools & Technologies</h3>
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40" alt="Unity" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
----
-
-<h3 align="center">📫 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/kivancsadikyildirim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
