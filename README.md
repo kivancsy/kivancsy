@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Kivanc.</h1>
 <h3 align="center">Game Developer | C# Programmer | Bad Code Connoisseur</h3>
 
-# 💫 About Me:
-👨‍💻 I'm a software developer with a background in finance and ERP systems.
+</br>👨‍💻 I'm a software developer with a background in finance and ERP systems.
 </br>🛠️ I have hands-on experience working with large scale, production level applications and complex data pipelines.
 </br>🕳️ In recent years, I've transitioned into game development.
 </br>🎮 Vidoe Gaems 👍
