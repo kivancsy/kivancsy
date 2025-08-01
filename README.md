@@ -4,10 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif">
 
 <p align="left">
-I make games and a bunch of other nonsense.<br><br>
-
-I code in <strong>C#</strong>, build stuff in <strong>Unity</strong>, and break things just to put them back together again.
-
 I like rogue-like stuff and code that doesn't make me want to rogue-like myself.<br><br>
 </p>
 
