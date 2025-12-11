@@ -1,8 +1,5 @@
 <h1 align="center">dem wicked but mi wickeda dan dem</h1>
 
-<ascii>
-
-Fedora Linux 43 • GNOME • ThinkPad T15
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
