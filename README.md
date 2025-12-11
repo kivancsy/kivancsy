@@ -3,10 +3,10 @@
 
 <pre>
            ___
-         .';:;'.
-        /_' _' /\   __
-        ;a/ e= J/-'"  '.
-        \ ~_   (  -'  ( ;_ ,.
+         .';:;'.                    OS: Fedora Linux 43 (Workstation Edition) x86_64
+        /_' _' /\   __              Kernel: Linux 6.17.10-300.fc43.x86_64
+        ;a/ e= J/-'"  '.            DE: GNOME 49.2
+        \ ~_   (  -'  ( ;_ ,.       WM: Mutter (Wayland)
          L~"'_.    -.  \ ./  )
          ,'-' '-._  _;  )'   (
        .' .'   _.'")  \  \(  |
