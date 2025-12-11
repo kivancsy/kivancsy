@@ -1,5 +1,5 @@
 <h1 align="center">dem wicked but mi wickeda dan dem</h1>
-## 🖥️ System Info (Fastfetch)
+
 
            .',;::::;,'.                 kivancsy@ThinkPad
          .';:cccccccccccc:;,.             ------------
