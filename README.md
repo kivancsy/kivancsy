@@ -5,7 +5,7 @@
          .';:cccccccccccc:;,.             ------------
       .;cccccccccccccccccccccc;.          OS: Fedora Linux 43
     .:cccccccccccccccccccccccccc:.        Kernel: Linux 6.17.10
-  .;ccccccccccccc;.:dddl:.;ccccccc;.      Host: ThinkPad T15 Gen 1
+  .;ccccccccccccc;.;cccc:.;ccccccc;.      Host: ThinkPad T15 Gen 1
  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 49.2
 .:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    WM: Mutter (Wayland)
 ,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    CPU: Intel i7-10510U
