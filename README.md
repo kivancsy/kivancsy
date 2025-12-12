@@ -1,8 +1,8 @@
 <h1 align="center">dem wicked but mi wickeda dan dem</h1>
-<p align="center">Results-driven software developer with hands-on experience</p>
+<p align="center">Results-driven software developer with hands-on experience...</p>
 <p align="center">
   <strong>
-    BLAH BLAH BLAH...
+    BLAH BLAH BLAH
   </strong>
 </p>
 <p align="center" style="font-size: 14px;">
