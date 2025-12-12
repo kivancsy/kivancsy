@@ -1,5 +1,6 @@
 <h1 align="center">dem wicked but mi wickeda dan dem</h1>
 
+<p>The Lion doesn't concern himself with employment</p>
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
