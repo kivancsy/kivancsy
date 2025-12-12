@@ -7,7 +7,7 @@
 </p>
 <p align="center" style="font-size: 14px;">
   <strong><em>
-    The lion doesn’t concern himself with employment.
+    The Lion doesn’t concern himself with employment.
   </em></strong>
 </p>
 
