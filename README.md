@@ -1,5 +1,10 @@
 <h1 align="center">dem wicked but mi wickeda dan dem</h1>
-<p>Results-driven software developer with hands-on experience BLAH BLAH BLAH</p>
+<p align="center">Results-driven software developer with hands-on experience</p>
+<p align="center">
+  <strong>
+    BLAH BLAH BLAH...
+  </strong>
+</p>
 <p align="center" style="font-size: 14px;">
   <strong><em>
     The lion doesn’t concern himself with employment.
