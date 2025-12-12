@@ -1,6 +1,10 @@
 <h1 align="center">dem wicked but mi wickeda dan dem</h1>
-
-<p align="center">The Lion doesn't concern himself with employment</p>
+<p>Results-driven software developer with hands-on experience BLAH BLAH BLAH</p>
+<p align="center" style="font-size: 14px;">
+  <strong><em>
+    The lion doesn’t concern himself with employment.
+  </em></strong>
+</p>
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
