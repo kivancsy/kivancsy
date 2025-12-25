@@ -1,7 +1,7 @@
 <h1 align="center"><strong>dem wicked but mi wickeda dan dem</strong></h1>
 <p align="center" style="font-size: 14px;">
   <strong><em>
-    The Lion does not concern himself with employment.
+    The Lion does not concern himself with corpo-influencers.
   </em></strong>
 </p>
 
