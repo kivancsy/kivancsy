@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hello Hello</strong></h1>
+<h1 align="center"><strong>wagwan</strong></h1>
 <p align="center" style="font-size: 14px;">
   <strong><em>
     The Lion does not concern himself with an AI generated bio.
