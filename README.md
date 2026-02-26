@@ -1,7 +1,7 @@
 <h1 align="center"><strong>wagwan</strong></h1>
 
 <p align="center">
-  <em>bit unconventional but still. good</em>
+  <em>bit unconventional but still good.</em>
 </p>
 
 <br>
